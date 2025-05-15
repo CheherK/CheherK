@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cheherk" alt="cheherk" /></a> </p>
 
-- 🌱 I’m currently learning **AWS, Angular**
+- 🌱 I’m currently learning **REACT NATIVE**
 
 - 📫 How to reach me **cheherkallebi@gmail.com**
 
